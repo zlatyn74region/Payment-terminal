@@ -22,7 +22,12 @@
 
 - Тест 1
 
+![Img alt](https://github.com/zlatyn74region/Payment-terminal/blob/master/images/1.PNG)
+
 - Тест 2  
+
+![Img alt](https://github.com/zlatyn74region/Payment-terminal/blob/master/images/2.PNG)
 
 - Тест 3  
 
+![Img alt](https://github.com/zlatyn74region/Payment-terminal/blob/master/images/3.PNG)
